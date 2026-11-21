@@ -1,6 +1,11 @@
+# Local artefacts from building and kit-checking this entry — never committed.
 news-image-20261120-kit/
 kit.tar.gz
+
+# Throwaway output folders used when running main.py by hand to test it.
 out/
 out2/
-node_modules/
+
+# Interpreter and JavaScript leftovers that should stay out of the repo.
 __pycache__/
+node_modules/
